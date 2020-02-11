@@ -2,6 +2,6 @@
 Коды для OBDeleven
 
 - [Комплексные настройки](complex/README.md)
-- [Блочные настройки](block/README.md)
+- [Блочные настройки](units/README.md)
 
 [Правила проекта](RULES.md)

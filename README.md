@@ -4,4 +4,4 @@
 - [Комплексные настройки](complex/README.md)
 - [Блочные настройки](units/README.md)
 
-[Правила проекта](RULES.md)
+[Правила проекта](CONTRIBUTING.md)

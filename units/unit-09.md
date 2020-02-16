@@ -200,13 +200,13 @@ _Примечание_: делается при включенном зажиг�
 
 *Aдаптация*
 
-`ENG141681-ENG125655-ZV Komfort-Regenschliessen_ein_aus`
+`ZV Komfort-Regenschliessen_ein_aus`
 Старое значение: `не акт.` Новое значение: `акт.`
 
-`ENG141681-ENG125656-ZV Komfort-Regenschliessen_art`
+`ZV Komfort-Regenschliessen_art`
 Старое значение: `once` Новое значение: `Permanent`
 
-`ENG141681-ENG125657-ZV Komfort-Menusteuerung Regenschliessen`
+`ZV Komfort-Menusteuerung Regenschliessen`
 Старое значение: `не акт.` Новое значение: `акт.`
 
 - Нажимаем кнопку *"Car"* на *Bolero*, и переходим в **Настройки**
